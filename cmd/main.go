@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("I made a branch")
 	fmt.Println("1")
 	fmt.Println("2")
+	fmt.Println("3")
 }
