@@ -9,4 +9,7 @@ func main() {
 	fmt.Println("1")
 	fmt.Println("2")
 	fmt.Println("3")
+	fmt.Println("3")
+	fmt.Println("Holy shittt we might have made it!")
+	fmt.Println("we'll see...")
 }
