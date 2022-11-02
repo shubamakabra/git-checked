@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("I made a branch")
 	fmt.Println("I merged a branch!")
 	fmt.Println("One!")
+	fmt.Println("Two!")
 }
